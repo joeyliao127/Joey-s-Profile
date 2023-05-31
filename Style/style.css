@@ -193,6 +193,8 @@ main section.aboutMe div.aboutMe-MyPIC img {
   width: 100%;
   aspect-ratio: 0.8/1;
   border-radius: 30px;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 main section.skills {
   display: flex;
